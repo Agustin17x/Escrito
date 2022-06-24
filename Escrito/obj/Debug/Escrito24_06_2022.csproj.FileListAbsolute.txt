@@ -1,0 +1,10 @@
+C:\Users\alumno\source\repos\Escrito24_06_2022\Escrito24_06_2022\bin\Debug\Escrito24_06_2022.exe.config
+C:\Users\alumno\source\repos\Escrito24_06_2022\Escrito24_06_2022\bin\Debug\Escrito24_06_2022.exe
+C:\Users\alumno\source\repos\Escrito24_06_2022\Escrito24_06_2022\bin\Debug\Escrito24_06_2022.pdb
+C:\Users\alumno\source\repos\Escrito24_06_2022\Escrito24_06_2022\obj\Debug\Escrito24_06_2022.csprojAssemblyReference.cache
+C:\Users\alumno\source\repos\Escrito24_06_2022\Escrito24_06_2022\obj\Debug\Escrito24_06_2022.Form1.resources
+C:\Users\alumno\source\repos\Escrito24_06_2022\Escrito24_06_2022\obj\Debug\Escrito24_06_2022.Properties.Resources.resources
+C:\Users\alumno\source\repos\Escrito24_06_2022\Escrito24_06_2022\obj\Debug\Escrito24_06_2022.csproj.GenerateResource.cache
+C:\Users\alumno\source\repos\Escrito24_06_2022\Escrito24_06_2022\obj\Debug\Escrito24_06_2022.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\Escrito24_06_2022\Escrito24_06_2022\obj\Debug\Escrito24_06_2022.exe
+C:\Users\alumno\source\repos\Escrito24_06_2022\Escrito24_06_2022\obj\Debug\Escrito24_06_2022.pdb
